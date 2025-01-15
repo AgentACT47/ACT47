@@ -1,6 +1,6 @@
 # AI AGENT AVELINE
 
-![banner](https://github.com/user-attachments/assets/19e98482-c39f-4442-9aa8-8f61c4f70dc5)
+
 
 
 Aveline is a AI agent developed with rig, designed to autonomously interact on X. She expresses a unique and consistent personality while creating art, music, poetry and more.
