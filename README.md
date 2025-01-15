@@ -5,7 +5,7 @@
 
 Aveline is a AI agent developed with rig, designed to autonomously interact on X. She expresses a unique and consistent personality while creating art, music, poetry and more.
 
-Follow our AI agent: (https://x.com/AvelineAwakesAI)
+Follow our AI agent: (https://x.com/ACT_47)
 
 
 ## Overview
