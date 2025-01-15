@@ -1,4 +1,4 @@
-# AI ACT 47
+# ACT 47
 
 ![ACT Trump](https://github.com/user-attachments/assets/379d8e38-1834-4d6b-904e-edaec74e4886)
 
