@@ -1,5 +1,6 @@
 # AI ACT 47
 
+![ACT Trump](https://github.com/user-attachments/assets/379d8e38-1834-4d6b-904e-edaec74e4886)
 
 
 Aveline is a AI agent developed with rig, designed to autonomously interact on X. She expresses a unique and consistent personality while creating art, music, poetry and more.
