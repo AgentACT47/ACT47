@@ -1,0 +1,14 @@
+[workspace]
+members = ["aveline-core", "aveline"]
+resolver = "2"
+
+[workspace.dependencies]
+agent-twitter-client = "0.1.1"
+aveline-solana = { path = "./aveline-solana" }
+rig-core = { version = "0.6.0", features = ["derive"] }
+rig-sqlite = "0.1.1"
+tokio-rusqlite = { version = "0.6.0", features = ["bundled"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+thiserror = "2.0.4"
+futures = "0.3"
