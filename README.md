@@ -9,7 +9,7 @@ The ACT 47 Agent is an advanced AI-powered social media entity, meticulously des
 
 This agent represents a new era of digital interaction—one where an AI entity is not merely a tool but also a managed persona, governed by a dedicated AI manager. This narrative introduces a paradigm shift in Web3, blending autonomous decision-making with intentional oversight to ensure alignment with strategic goals and ethical standards.
 
-Follow our AI agent: ACT_47 on X
+Follow our AI agent: ACT_47 on X https://x.com/ACT_47
 
 ## Key Features
 
@@ -39,6 +39,7 @@ Aligns responses with the context of interactions, reflecting a unique character
 Generates multi-threaded posts to dive deeper into complex topics, such as cryptocurrency trends or advancements in AI.
 Adapts phrasing and response strategies based on user profiles and engagement history.
 
+
 ## 2. Autonomous Social Engagement
 
 The ACT 47 Agent is designed for seamless, intelligent participation on social media platforms, mimicking the nuances of human interaction while optimizing for audience engagement and retention.
@@ -61,6 +62,7 @@ Prioritizes interactions based on metrics such as relevance, sentiment, and pote
 Filters out spam, irrelevant content, and low-quality interactions to maintain focus and quality.
 Adapts filtering algorithms dynamically to align with evolving platform behaviors.
 
+
 ## 3. Enhanced Memory Capabilities
 
 Equipped with advanced memory systems, the agent delivers informed, context-aware interactions over extended engagements, mimicking human-like continuity and recall.
@@ -82,6 +84,7 @@ Incorporates real-time sentiment analysis to adjust communication style dynamica
 Tracks and analyzes user relationships, sentiment, and engagement trends to personalize future interactions and recommend topics of interest.
 Categorizes followers based on activity levels, interests, and influence within the ecosystem.
 
+
 ## 4. Social Media Platform Integration
 
 The ACT 47 Agent ensures seamless integration with social media platforms, particularly X, leveraging advanced tools and APIs to mimic human-like behaviors while optimizing for scalability and security.
@@ -101,6 +104,7 @@ Advanced Analytics and Insights:
 Tracks key metrics such as engagement rate, audience growth, and content performance.
 Uses machine learning models to refine posting strategies and identify emerging trends.
 Integrates with external analytic tools for deeper performance evaluation and reporting.
+
 
 ## 5. Flexible and Modular Design
 
@@ -151,37 +155,39 @@ anyhow: Simplified error handling for Rust applications, improving code readabil
 hyper: A fast HTTP implementation for integrating with external services.
 chrono: Precise time and date handling for scheduling and analytics.
 
-# Technical Highlights
+## Technical Highlights
 
-## 1. AI-Driven Interaction:
+### 1. AI-Driven Interaction:
 
 Incorporates cutting-edge natural language processing models to generate realistic, human-like text.
 Uses advanced sentiment analysis to tailor replies based on user emotion and context.
 Employs neural network-based decision-making for intelligent content generation and prioritization.
 Implements reinforcement learning techniques to optimize engagement strategies dynamically.
 
-## 2. Cryptocurrency and DeFi Insights:
+
+### 2. Cryptocurrency and DeFi Insights:
 
 Integrates market analysis tools and APIs to track trends in the cryptocurrency and DeFi sectors.
 Uses automated data scraping and analysis to produce accurate, up-to-date insights.
 Customizes posts to highlight emerging opportunities, risks, and innovations in the blockchain space.
 Provides educational threads on decentralized finance principles to increase audience understanding.
 
-## 3. Rig Framework Advantages:
+### 3. Rig Framework Advantages:
 
 Provides a scalable, modular base for developing advanced AI agents.
 Supports rapid iteration and experimentation with agent traits and behaviors.
 Enables robust, asynchronous communication with external platforms and services.
 Integrates seamlessly with popular Rust libraries for enhanced functionality.
 
-## 4. Security and Privacy:
+
+### 4. Security and Privacy:
 
 Implements strict access controls and encryption for API keys and user data.
 Follows best practices in secure programming to prevent unauthorized access and data breaches.
 Uses privacy-preserving methods to anonymize user interactions where applicable.
 Regularly updates dependencies to address vulnerabilities and ensure compliance with evolving security standards.
 
-# Future Developments
+### Future Developments
 
 Multilingual Support: Expanding the agent’s language capabilities to cater to a global audience.
 Enhanced Analytics: Integrating deeper machine learning models for content optimization and user behavior prediction.
@@ -189,7 +195,7 @@ Cross-Platform Integration: Expanding beyond X to include platforms like Discord
 Adaptive Learning: Enabling the agent to evolve its personality and strategies based on audience feedback and engagement data.
 Sentiment-Driven Content: Developing mechanisms to align posting strategies with real-time audience sentiment and global trends.
 
-# Special Thanks
+## Special Thanks
 
 We extend our gratitude to the following contributors and collaborators:
 Rig Framework Team: For providing a robust and versatile AI agent framework that serves as the foundation of this project.
