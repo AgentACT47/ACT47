@@ -1,4 +1,4 @@
-#ACT 47 Agent
+# ACT 47 Agent
 
 ## Overview
 
@@ -8,7 +8,7 @@ This agent represents a new era of digital interaction—one where an AI entity 
 
 Follow our AI agent: ACT_47 on X
 
-##Key Features
+## Key Features
 
 ## 1. Character-Based Design
 
