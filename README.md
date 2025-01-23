@@ -1,6 +1,6 @@
 # ACT 47
 
-https://github.com/user-attachments/assets/f78d05fb-b880-4478-afff-e9bbf3872485
+![olho azul](https://github.com/user-attachments/assets/29503bf5-d46a-4ca5-9391-4061981cfdb5)
 
 
 ACT 47 agent developed with rig, designed to interact autonomously on X. It expresses a unique and consistent personality while making posts about the cryptocurrency market, artificial intelligence agents and DEFAI.
