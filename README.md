@@ -20,17 +20,13 @@ The ACT 47 Agent’s behavior and communication style are guided by a structured
 ### Dynamic Personality Representation:
 
 The agent’s personality traits are predefined and maintained to ensure cohesion.
-
 Adjustable parameters for writing style, tone, and thematic preferences.
-
 Includes simulation of emotional states to add depth and variety to interactions.
 
 ### Tailored Content Generation:
 
 Produces posts and replies that adhere to the defined personality traits.
-
 Enables adaptive behavior to match the tone, complexity, and style of ongoing discussions.
-
 Supports the generation of long-form threads, creating detailed analyses and engaging narratives on technical topics like blockchain or AI advancements.
 
 ### Intelligent Response Mechanism:
